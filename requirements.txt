@@ -1,0 +1,6 @@
+streamlit
+pandas
+langchain-community
+langchain-openai
+faiss-cpu
+Pillow
